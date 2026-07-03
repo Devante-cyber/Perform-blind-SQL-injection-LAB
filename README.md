@@ -45,7 +45,6 @@ Perform an error-based SQL injection attack, the attacker uses the error output 
 
 1' OR 1=1 UNION SELECT 1,DATABASE() #
 
-<img width="318" height="350" alt="image" src="https://github.com/user-attachments/assets/6c2984f7-5ee5-4b3d-b21e-fce17cf3a696" />
 
 <img width="332" height="351" alt="image" src="https://github.com/user-attachments/assets/f7dbf20f-169a-4b25-a45a-48e3e419f14c" />
 
