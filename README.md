@@ -1,15 +1,15 @@
 # Perform-blind-SQL-injection-LAB
 n an error-based SQL injection attack, the attacker uses the error output to determine how to inject SQL to attack the application. 
 
-Click the + at the top to make a new tab in Chrome. Click the Blind SQL bookmark.
+-Click the + at the top to make a new tab in Chrome. Click the Blind SQL bookmark.
 
 <img width="678" height="153" alt="image" src="https://github.com/user-attachments/assets/83becbc6-da79-4584-9472-6235427d5ae8" />
 
-In the Enter User ID box, enter 1. Click Submit.
+-In the Enter User ID box, enter 1. Click Submit.
 
 <img width="519" height="117" alt="image" src="https://github.com/user-attachments/assets/fcd41d36-e762-4590-a3e8-73c9eb492d43" />
 
-The output is the user id and username
+-The output is the user id and username
 
 <img width="517" height="102" alt="image" src="https://github.com/user-attachments/assets/564c47ba-025d-4611-91e8-d388b8458ae4" />
 
